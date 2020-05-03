@@ -1,0 +1,39 @@
+body {
+    font-size: 20px;
+    background: url(img/1\ hvGHw2fnZ3UP8X4otNl7Fw.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-top: 0px;
+    text-align: center;
+}
+
+div.body {
+    width: 1200px;
+    padding: 0px;
+    color: aqua;
+    font-family: Ink Free;
+    display: inline-block;
+}
+
+body header {
+    font-size: 140%;
+    margin: 0px;
+    padding: 45px 0px;
+    text-align: center;
+    background: url(img/alphacentauri19.jpg);
+    background-size: 100%;
+}
+
+div.body div.content {
+    text-align: left;
+    font-family: MV Boli;
+}
+
+div.body div.content div.list p {
+    margin: 0px;
+    padding-top: 10px;
+}
+
+div.body div.content {
+    background: radial-gradient(circle at 100%, #333, #333 50%, rgba(139, 105, 105, 0.822) 75%, #333 75%);
+}
